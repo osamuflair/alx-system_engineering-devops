@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 helo
+ls -l 9-John_Doe
